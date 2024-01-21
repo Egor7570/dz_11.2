@@ -16,4 +16,5 @@ def title_string(string):
     return string.title()
 
 
-
+print(upper_string("string"))
+print(title_string("string"))
